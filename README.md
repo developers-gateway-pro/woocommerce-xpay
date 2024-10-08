@@ -18,10 +18,29 @@ Las traducciones están en Español Colombia e Ingles, las puedes cambiar al idi
 
 ![Texto alternativo](https://img-app-v1.s3.amazonaws.com/cap3.png)
 
-  
 - Activa el plugin.
+
+![Texto alternativo](https://img-app-v1.s3.amazonaws.com/cap4.png)
+  
 - Entra a las configuraciones de Woocomerce y en pagos onfigura Xpay
 
+![Texto alternativo](https://img-app-v1.s3.amazonaws.com/cap5.png)
+
+- Gestiona el método de pago    
+
+
+  Modo Pruebas: Selecciona el ambiente al cual deseas ejecutar la transacción de pagos (pruebas, producción)    
+  Account ID: Id de cuenta compartido por la entidad, usada en ambiente de producción  
+  Api KEY: Llave de acceso compartida por la entidad, usada en ambiente de producción   
+  Account ID Test: Id de cuenta compartido por la entidad, usada en ambiente de pruebas  
+  Api KEY Test: Llave de acceso compartida por la entidad, usada en ambiente de pruebas  
+  Url Sanbox (Pruebas)  
+  Url Producción  
+
+![Texto alternativo](https://img-app-v1.s3.amazonaws.com/cap6.png)
+  
+
+  
 ## Pruebas de compras
 
 - En la configuración del módulo habilitar el modo Test en Si
