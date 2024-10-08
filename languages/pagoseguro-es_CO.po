@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xpay Payment Gateway For WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-15 21:26+0000\n"
+"PO-Revision-Date: 2020-04-15 21:27+0000\n"
+"Last-Translator: William Hurtado <williandres8@gmail.com>\n"
+"Language-Team: Español de Colombia\n"
+"Language: es_CO\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: pagoseguro.php:75
+msgid "PagoSeguro"
+msgstr "Xpay"
+
+#: pagoseguro.php:76
+msgid "PagoSeguroDescription"
+msgstr "Xpay Carro de Compras"
+
+#: pagoseguro.php:224
+msgid "moduleWithoutConfig"
+msgstr ""
+"Debes Configurar Xpay, mas información https://pagosegurorepos.github."
+"io/documentation/#/"
+
+#: pagoseguro.php:245
+msgid "RedirectingPayment."
+msgstr "Redirecciónando a Xpay"
+
+#: pagoseguro.php:246
+msgid "OrderNote"
+msgstr "Orden creada y usuario redireccionado a Xpay"
+
+#: pagoseguro.php:247
+msgid "AwaitingPayment."
+msgstr "Pago en Espera"
+
+#: views/gateway-disabled.php:11
+msgid "GatewayDisabled"
+msgstr "Plugin Inactivo"
+
+#: views/gateway-disabled.php:12
+msgid "PagoSeguroNotCurrency."
+msgstr "Xpay no soporta la configuración de moneda actual"
+
+#: views/admin/settings-configure-form.php:9
+msgid "Description"
+msgstr "Descripción"
+
+#: views/admin/settings-configure-form.php:14
+msgid "PAGOSEGURO_TEST_MODE"
+msgstr "Modo Pruebas"
+
+#: views/admin/settings-configure-form.php:20
+msgid "PAGOSEGURO_ACCOUNT_ID"
+msgstr "Account ID"
+
+#: views/admin/settings-configure-form.php:25
+msgid "PAGOSEGURO_API_KEY"
+msgstr "Api KEY"
+
+#: views/admin/settings-configure-form.php:29
+msgid "PAGOSEGURO_ACCOUNT_ID_TEST"
+msgstr "Account ID Test"
+
+#: views/admin/settings-configure-form.php:34
+msgid "PAGOSEGURO_API_KEY_TEST"
+msgstr "Api KEY Test"
+
+#: views/admin/settings-configure-form.php:38
+msgid "PAGOSEGURO_URL_TEST"
+msgstr "Url Sanbox (Pruebas)"
+
+#: views/admin/settings-configure-form.php:42
+msgid "PAGOSEGURO_URL_PAYMENT"
+msgstr "Url Producción"
+
+#: views/admin/settings-configure.php:16
+msgid "Configuration"
+msgstr "Configuración"
+
+#: views/front/payment_detail.php:51
+msgid "TaxInclude"
+msgstr "(impuestos incluidos)"
+
+#: views/front/payment_detail.php:54
+msgid "PaymentDetailsMessage"
+msgstr ""
+"Una vez que confirme su pedido, puede pagar utilizando el método de pago que "
+"elija de Xpay."
+
+#. Name of the plugin
+msgid "Xpay Payment Gateway For WooCommerce"
+msgstr "Xpay Carro de Compra para WooCommerce"
+
+#. Description of the plugin
+msgid "Xpay Payment Gateway"
+msgstr "Xpay Carro de Compra"
+
+#. URI of the plugin
+msgid "https://docs.dyner24.com/index.php/docs/dyner24-documentacion/plugins-modulos/woocommerce/"
+msgstr "https://docs.dyner24.com/index.php/docs/dyner24-documentacion/plugins-modulos/woocommerce/"
+
+#. Author of the plugin
+msgid "shell931"
+msgstr "shell931"
+
+#. Author URI of the plugin
+msgid "https://github.com/shell931/"
+msgstr "https://github.com/shell931/"
