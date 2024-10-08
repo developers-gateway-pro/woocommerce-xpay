@@ -39,9 +39,17 @@ Las traducciones están en Español Colombia e Ingles, las puedes cambiar al idi
 
 ![Texto alternativo](https://img-app-v1.s3.amazonaws.com/cap6.png)
   
+- En la pagina de pago de wordpress (http://localhost/wordpress/index.php/finalizar-compra/), se debe garantizar que exista el Shortcode [woocommerce_checkout]:
 
-  
+![Texto alternativo](https://img-app-v1.s3.amazonaws.com/cap7.png)
+
+- Luego de configurar el plugin y el Shortcode realiza una prueba con una compra y deberás visualizar el metodo de pago el cual redireccionará hacia el checkout de pagos de la pasarela:
+
+<img width="1177" alt="image" src="https://github.com/user-attachments/assets/1d6536e5-ff9e-4081-ae1f-e1efb718bf9d">
+
+<img width="1485" alt="cap8" src="https://github.com/user-attachments/assets/23d9f9b6-5253-4736-91f4-f082971f6cb5">
+
+
 ## Pruebas de compras
 
-- En la configuración del módulo habilitar el modo Test en Si
-- Buscar generadores de códigos de creditcards.
+- Buscar generadores de códigos de creditcards o solicitar tarjetas para pruebas con 3DS.
