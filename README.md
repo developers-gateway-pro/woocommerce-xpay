@@ -34,8 +34,8 @@ Las traducciones están en Español Colombia e Ingles, las puedes cambiar al idi
   Api KEY: Llave de acceso compartida por la entidad, usada en ambiente de producción   
   Account ID Test: Id de cuenta compartido por la entidad, usada en ambiente de pruebas  
   Api KEY Test: Llave de acceso compartida por la entidad, usada en ambiente de pruebas  
-  Url Sanbox (Pruebas), compartida por la pasarela
-  Url Producción, compartida por la pasarela  
+  Url Sanbox (Pruebas), compartida por la pasarela  
+  Url Producción, compartida por la pasarela    
 
 ![Texto alternativo](https://img-app-v1.s3.amazonaws.com/cap6.png)
   
