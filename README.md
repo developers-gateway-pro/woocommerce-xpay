@@ -22,7 +22,7 @@ Las traducciones están en Español Colombia e Ingles, las puedes cambiar al idi
 
 ![Texto alternativo](https://img-app-v1.s3.amazonaws.com/cap4.png)
   
-- Entra a las configuraciones de Woocomerce y en pagos onfigura Xpay
+- Entra a las configuraciones de Woocomerce y en pagos configura Xpay
 
 ![Texto alternativo](https://img-app-v1.s3.amazonaws.com/cap5.png)
 
