@@ -11,7 +11,8 @@ Las traducciones están en Español Colombia e Ingles, las puedes cambiar al idi
 
 - Descargar el contenido de este [repositorio](https://github.com/developers-gateway-pro/woocommerce-Xpay/archive/refs/heads/main.zip).
 - En el administrador de Wordpress ir a la sección de plugins y buscar el archivo descargado y añadir plugin e instalar.
-![Texto alternativo](https://img-logos-comercios-v1.s3.amazonaws.com/C_10.png)
+  
+![Texto alternativo](https://img-app-v1.s3.amazonaws.com/cap1.png)
 
   
 - Activa el plugin.
